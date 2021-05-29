@@ -32,7 +32,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "http://localhost:5000/",
+  "proxy": "http://3.23.215.95:5000/",
+  "homepage": "http://notesapp.com",
   "eslintConfig": {
     "extends": [
       "react-app",
