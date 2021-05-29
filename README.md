@@ -1,4 +1,4 @@
-# NotesApp : Create and Save Notes
+# NotesApp : Create, Edit and Save Notes
 
 NotesApp is a simple application to perform CRUD operations.
 
