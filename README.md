@@ -29,10 +29,6 @@ NotesApp is a simple application to perform CRUD operations.
 - [Formik](https://formik.org/)
 - [Material UI](https://material-ui.com/)
 
-### Developed By :
-
-- [Shashi Kant Yadav](https://github.com/imboss712)
-
 ### License :
 
 - [ISC License](https://choosealicense.com/licenses/isc/)
